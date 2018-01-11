@@ -1,0 +1,12 @@
+Imp links:
+Review tips: https://review.udacity.com/?utm_medium=email&utm_campaign=ret_000_auto_ndxxx_submission-reviewed&utm_source=blueshift&utm_content=reviewsapp-submission-reviewed&bsft_clkid=ef41794a-a7c3-4756-8232-79442dc168ba&bsft_uid=7e69cb19-c36a-496f-8e14-d63a2b8720ce&bsft_mid=9d165471-e43a-4b47-b2a8-91f7811a7043&bsft_eid=6f154690-7543-4582-9be7-e397af208dbd&bsft_txnid=541198d0-74a4-4d39-8538-a713ebba52ba#!/reviews/952675
+
+
+
+Real-time using deep learning:
+1. https://github.com/xslittlegrass/CarND-Vehicle-Detection
+2. https://github.com/rykov8/ssd_keras
+
+
+Stabalization using deque:
+https://pythontips.com/2014/07/02/an-intro-to-deque-module/
